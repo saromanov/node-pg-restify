@@ -1,0 +1,29 @@
+{
+  "name": "node-pg-restify",
+  "version": "1.0.0",
+  "description": "REST API interface on PostgreSQL",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saromanov/node-pg-restify.git"
+  },
+  "keywords": [
+    "postgresql",
+    "rest",
+    "restify"
+  ],
+  "author": "Sergey Romanov <xxsmotur@gmail.com> (https://github.com/saromanov)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saromanov/node-pg-restify/issues"
+  },
+  "homepage": "https://github.com/saromanov/node-pg-restify#readme",
+  "dependencies": {
+    "optimist": "^0.6.1",
+    "pg": "^4.4.3",
+    "restify": "^4.0.3"
+  }
+}
