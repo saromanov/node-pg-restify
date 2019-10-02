@@ -24,6 +24,6 @@
   "dependencies": {
     "optimist": "^0.6.1",
     "pg": "^4.4.3",
-    "restify": "^4.0.3"
+    "restify": "^8.1.0"
   }
 }
