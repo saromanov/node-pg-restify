@@ -23,7 +23,7 @@
   "homepage": "https://github.com/saromanov/node-pg-restify#readme",
   "dependencies": {
     "optimist": "^0.6.1",
-    "pg": "^4.4.3",
-    "restify": "^8.1.0"
+    "pg": "^8.4.0",
+    "restify": "^10.0.0"
   }
 }
